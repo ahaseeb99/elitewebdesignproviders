@@ -1,0 +1,131 @@
+@media (max-width: 992px) {
+  .cnnts {
+    margin-top: 80px;
+  }
+  .custom-boxs {
+    padding: 20px 10px;
+    height: 270px;
+    width: 96%;
+    background: #272827 !important;
+  }
+  #header,
+  .navbar {
+    width: 50px;
+  }
+  .port-hdd {
+    opacity: 0;
+  }
+  .FocusingTexts small {
+    font-size: 22px;
+    right: 0;
+  }
+  .FocusingTexts span {
+    font-size: 22px;
+    margin: 0 0 8px;
+  }
+  .sec-01 p {
+    font-size: 11px !important;
+  }
+  .AboutPeraText ul,
+  .GeeksLogo img,
+  .RankSolution,
+  .custom-box img,
+  .mob-nnn,
+  .mob-non,
+  .responsive br,
+  .right,
+  .scnd-poort .LeftPortfolioMain {
+    display: none;
+  }
+  .custom-box h5 {
+    font-size: 11px;
+  }
+  .custom-box {
+    padding: 14px 6px 0;
+    margin: 4px;
+    width: 130px;
+  }
+  .main-wrap-boxes .mb-4 {
+    margin-bottom: 15px !important;
+  }
+  .portfolioLinks {
+    padding-top: 0;
+    margin-top: 30px;
+  }
+  #hero .GeeksLogo img,
+  .testimonials .GeeksLogo img {
+    display: block !important;
+    max-width: 120px;
+    height: auto;
+    margin: 0 auto;
+  }
+  .HomeMenText p {
+    width: 80% !important;
+    margin: 0 auto;
+  }
+  #section0 button {
+    margin: 18px 0 0 !important;
+  }
+  .HomeMenText small {
+    right: 0 !important;
+    letter-spacing: 0;
+  }
+  .popup {
+    top: 53% !important;
+    max-width: 90% !important;
+    height: 490px !important;
+  }
+  .main-wrap-boxes {
+    padding: 0;
+  }
+  #section1 button {
+    margin: 0 !important;
+  }
+  .portfolioLinks ul li a {
+    font-size: 12px !important;
+  }
+  .portfolioLinks p {
+    font-size: 10px !important;
+  }
+  .portfolioLinks small {
+    margin: 6px 0 2px;
+    font-size: 12px;
+  }
+  .portfolioLinks span {
+    font-size: 17px;
+    letter-spacing: 1px;
+    margin: 9px 0 5px;
+  }
+  .new-prts {
+    margin: 0;
+  }
+  .TestimonialSlider {
+    padding: 15px;
+    height: auto;
+  }
+  .TestimonialIcons .trustpilot-widget {
+    width: 130px;
+    margin-left: -32px;
+  }
+  .desk-non {
+    display: block !important;
+  }
+  .scnd-poort {
+    background: #000;
+  }
+  .scnd-poort .RightPortfolioMain {
+    position: relative;
+    top: -120px;
+  }
+  .btnDiv {
+    display: none !important;
+  }
+  .men22 {
+    width: 100%;
+  }
+  .banner-imgs img {
+    position: relative;
+    left: -40px;
+    display: none;
+  }
+}
